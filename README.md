@@ -15,7 +15,7 @@
 </p>
 
 > [!NOTE]
-> <sup id="1">[1]</sup> ⚡️| Banco de dados em memória para testes e logs
+> <sup id="1">[1]</sup> ⚡️| Recriando o Jogo Tennis for Two em Java com LibGDX
 
 ### 🔰 Instalação 
 
@@ -30,5 +30,5 @@ cd tennis
 
 ### 🔰 Executando Localmente 
 ```bash
-teste
+t
 ```
