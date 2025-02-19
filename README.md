@@ -15,7 +15,7 @@
 </p>
 
 > [!NOTE]
-> <sup id="1">[1]</sup> ⚡️| Recriando o Jogo Tennis for Two em Java com LibGDX
+> <sup id="1">[1]</sup> 🏓| Recriando o Jogo Tennis for Two em Java com LibGDX
 
 ### 🔰 Instalação 
 
